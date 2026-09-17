@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "resource.h": "c",
+        "readcmd.h": "c"
+    }
+}
